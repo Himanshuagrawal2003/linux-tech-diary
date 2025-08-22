@@ -1,0 +1,6 @@
+================= LOGBOOK =================
+$ ls
+$ mkdir test
+$ cd test
+$ touch file.txt
+$ echo "Hello Linux" >> file.txt

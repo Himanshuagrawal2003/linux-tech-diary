@@ -1,0 +1,21 @@
+================== My Linux Tech Diary ==================
+"Keep learning, keep growing!"
+
+================ PROFILE ================
+Name    : Himanshu Agrawal
+Roll No : 0832CS231079
+
+=============== FAVORITE COMMANDS ===============
+1. ls   - list files
+2. pwd  - show current directory
+3. cat  - read file content
+4. nano - edit files
+5. zip  - compress files
+================= LOGBOOK =================
+$ ls
+$ mkdir test
+$ cd test
+$ touch file.txt
+$ echo "Hello Linux" >> file.txt
+
+=========================================================
